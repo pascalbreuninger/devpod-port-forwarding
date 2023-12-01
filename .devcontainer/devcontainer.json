@@ -1,0 +1,7 @@
+{
+  "name": "Angular",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
+  "features": {},
+  "forwardPorts": ["4200"],
+  "postCreateCommand": "yarn"
+}
